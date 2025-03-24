@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/karim-codes/karim-codes/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
