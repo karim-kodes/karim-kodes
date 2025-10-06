@@ -64,7 +64,7 @@
 
 <div align="right">
   <p><b>🔥 GitHub Streak</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karim-codes&theme=radical&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karim-kodes&theme=radical&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 <br clear="both"/>
