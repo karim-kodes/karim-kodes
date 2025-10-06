@@ -58,6 +58,8 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+
+<br></br>
 <div align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=karim-kodes&theme=radical&hide_border=false" height="150" alt="streak graph" />
 </div>
