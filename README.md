@@ -1,78 +1,151 @@
-<h2 align="left">Hi 👋! My name is Abdikarim and I'm a MERN stack Developer from Kenya</h2>
+<!-- 🧑‍💻 INTRO -->
+<h2 align="center">Hi 👋! I'm <span style="color:#58a6ff;">Abdikarim</span> — a MERN Stack Developer from Kenya 🌍</h2>
+
+<p align="center">
+  <a href="https://github.com/karim-codes">
+    <img src="https://komarev.com/ghpvc/?username=karim-codes&label=Profile%20views&color=0e75b6&style=flat" alt="karim-codes" />
+  </a>
+  <a href="https://github.com/karim-codes?tab=followers">
+    <img src="https://img.shields.io/github/followers/karim-codes?label=Followers&style=social" alt="followers-count" />
+  </a>
+</p>
 
 ---
 
-<!-- Top row: Stats and Languages -->
+<!-- ⚡ TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;UI%2FUX+Designer;Open+Source+Contributor;Lifelong+Learner+💡" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- 📊 GITHUB STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karim-codes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" align="left" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karim-codes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karim-codes&theme=radical&hide_border=false" height="165" />
 </div>
 
-<br clear="both"/>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-codes&layout=compact&langs_count=6&theme=radical&hide_border=false" height="165" />
+</div>
 
 ---
 
-<!-- Second row: Tech stack + Socials (left) and Streak (right) -->
-<div align="left">
-  <!-- Tech stack -->
-  <p><b>💻 Tech Stack</b></p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
-  
-  <br><br>
-  
-  <!-- Socials -->
-  <p><b>🌍 Connect with me</b></p>
+<!-- 🧠 TECH STACK -->
+<h3 align="left">💻 Tech Stack</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br>JavaScript
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/><br>TypeScript
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br>React.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/><br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/><br>Express.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/><br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/><br>Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/><br>Firebase
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/><br>Figma
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/><br>Next.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/><br>AWS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/><br>Linux
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- 🌍 SOCIAL LINKS -->
+<h3 align="left">🌍 Connect with me</h3>
+<p align="center">
   <a href="https://www.instagram.com/karim.kodes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/karimkodes" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/abdikarim.mohamed01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</div>
-
-<div align="right">
-  <p><b>🔥 GitHub Streak</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karim-codes&theme=radical&hide_border=false" height="150" alt="streak graph" />
-</div>
-
-<br clear="both"/>
+  <a href="https://www.linkedin.com/in/abdikarim-mohamed-abdi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdikarimmohamedabdi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<!-- Dev Quote Generator -->
-<div align="center">
-  <p><b>💡 Dev Quote</b></p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
-</div>
+<!-- 🏆 TROPHIES -->
+<h3 align="center">🏆 GitHub Achievements</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karim-codes&theme=dracula&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<!-- ✨ DEV QUOTE -->
+<h3 align="center">💡 Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev quote"/>
+</p>
+
+---
+
+<!-- 🌱 CONTRIBUTION GRAPH -->
+<h3 align="center">🌱 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karim-codes&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<!-- 📂 PINNED PROJECTS -->
+<h3 align="center">📂 Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/karim-codes/Natours"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-codes&repo=Natours&theme=radical" /></a>
+  <a href="https://github.com/karim-codes/RebootMe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-codes&repo=RebootMe&theme=radical" /></a>
+</p>
