@@ -62,10 +62,24 @@
   </a>
 </div>
 
-<div align="right">
-  <p><b>🔥 GitHub Streak</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karim-codes&theme=radical&hide_border=false" height="150" alt="streak graph" />
+---
+
+### 📊 GitHub Activity Overview
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karim-codes&theme=tokyo-night&hide_border=true&area=true" height="250" alt="activity graph" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-metrics.vercel.app/api?username=karim-codes&template=classic&config.timezone=Africa%2FNairobi" alt="metrics graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/karim-codes/karim-codes/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
 
 <br clear="both"/>
 
