@@ -147,5 +147,5 @@
 <h3 align="center">📂 Featured Projects</h3>
 <p align="center">
   <a href="https://github.com/karim-codes/Natours"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-kodes&repo=Natours&theme=radical" /></a>
-  <a href="https://github.com/karim-codes/DonorBridge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-kodes&repo=RebootMe&theme=radical" /></a>
+  <a href="https://github.com/karim-codes/movie_success_predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-kodes&repo=RebootMe&theme=radical" /></a>
 </p>
