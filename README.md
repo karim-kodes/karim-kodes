@@ -2,10 +2,10 @@
 <h2 align="center">Hi 👋! I'm <span style="color:#58a6ff;">Abdikarim</span> — a MERN Stack Developer from Kenya 🌍</h2>
 
 <p align="center">
-  <a href="https://github.com/karim-codes">
-    <img src="https://komarev.com/ghpvc/?username=karim-codes&label=Profile%20views&color=0e75b6&style=flat" alt="karim-codes" />
+  <a href="https://github.com/karim-Kodes">
+    <img src="https://komarev.com/ghpvc/?username=karim-codes&label=Profile%20views&color=0e75b6&style=flat" alt="karim-Kodes" />
   </a>
-  <a href="https://github.com/karim-codes?tab=followers">
+  <a href="https://github.com/karim-Kodes?tab=followers">
     <img src="https://img.shields.io/github/followers/karim-codes?label=Followers&style=social" alt="followers-count" />
   </a>
 </p>
@@ -21,14 +21,14 @@
 
 <!-- 📊 GITHUB STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karim-codes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karim-codes&theme=radical&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karim-Kodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karim-kodes&theme=radical&hide_border=false" height="165" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-codes&layout=compact&langs_count=6&theme=radical&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-kodes&layout=compact&langs_count=6&theme=radical&hide_border=false" height="165" />
 </div>
 
 ---
@@ -112,7 +112,7 @@
   <a href="https://www.linkedin.com/in/abdikarim-mohamed-abdi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abdikarimmohamedabdi@gmail.com">
+  <a href="mailto:officialabdikarim@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -122,7 +122,7 @@
 <!-- 🏆 TROPHIES -->
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karim-codes&theme=dracula&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=karim-kodes&theme=dracula&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -138,7 +138,7 @@
 <!-- 🌱 CONTRIBUTION GRAPH -->
 <h3 align="center">🌱 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karim-codes&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karim-kodes&theme=dracula" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -146,6 +146,6 @@
 <!-- 📂 PINNED PROJECTS -->
 <h3 align="center">📂 Featured Projects</h3>
 <p align="center">
-  <a href="https://github.com/karim-codes/Natours"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-codes&repo=Natours&theme=radical" /></a>
-  <a href="https://github.com/karim-codes/RebootMe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-codes&repo=RebootMe&theme=radical" /></a>
+  <a href="https://github.com/karim-codes/Natours"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-kodes&repo=Natours&theme=radical" /></a>
+  <a href="https://github.com/karim-codes/DonorBridgr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karim-kodes&repo=RebootMe&theme=radical" /></a>
 </p>
