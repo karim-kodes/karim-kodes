@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=karim-codes&label=Profile%20views&color=0e75b6&style=flat" alt="karim-Kodes" />
   </a>
   <a href="https://github.com/karim-Kodes?tab=followers">
-    <img src="https://img.shields.io/github/followers/karim-codes?label=Followers&style=social" alt="followers-count" />
+    <img src="https://img.shields.io/github/followers/karim-kodes?label=Followers&style=social" alt="followers-count" />
   </a>
 </p>
 
