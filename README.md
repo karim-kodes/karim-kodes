@@ -4,7 +4,7 @@
 
 <h2 align="center">
   Hi 👋, I'm <span style="color:#58a6ff;">Abdikarim Mohamed Abdi</span><br/>
-  <sub>MERN Stack Developer • UI/UX Designer • SaaS Builder</sub>
+  <sub>Full Stack Developer • UI/UX Designer • SaaS Builder</sub>
 </h2>
 
 <p align="center">
