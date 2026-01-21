@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Karim
+# 👋 Hey, I'm Abdikarim Mohamed
 
 ### Full-Stack Developer | UI/UX Enthusiast | Building Digital Experiences
 
