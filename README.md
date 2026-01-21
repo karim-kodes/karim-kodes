@@ -79,7 +79,7 @@ const karim = {
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karim-kodes&theme=tokyonight&border_radius=10&border=026DFC&background=0D1117&ring=026DFC&fire=026DFC&currStreakLabel=9DC1F1&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=karim-kodes&theme=tokyonight&hide_border=false&border_radius=10&border=026DFC&background=0D1117&ring=026DFC&fire=026DFC&currStreakLabel=9DC1F1&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -89,7 +89,7 @@ const karim = {
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=karim-kodes&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&border_color=026DFC&bg_color=0D1117&title_color=026DFC&icon_color=9DC1F1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karim-kodes&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&border_color=026DFC&bg_color=0D1117&title_color=026DFC&icon_color=9DC1F1" alt="GitHub Trophies"/>
 
 </div>
 
