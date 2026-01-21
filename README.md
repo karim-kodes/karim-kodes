@@ -110,6 +110,8 @@ const karim = {
 <div align="center">
 
 [![KarimStudio](https://github-readme-stats.vercel.app/api/pin/?username=karim-kodes&repo=KarimStudio&theme=tokyonight&border_radius=10&border_color=026DFC&bg_color=0D1117&title_color=026DFC&icon_color=9DC1F1&text_color=C9D1D9)](https://github.com/karim-kodes/KarimStudio)
+[![KarimStudio](https://github-readme-stats.vercel.app/api/pin/?username=karim-kodes&repo=KarimStudio&theme=tokyonight&border_radius=10&border_color=026DFC&bg_color=0D1117&title_color=026DFC&icon_color=9DC1F1&text_color=C9D1D9)](https://github.com/karim-kodes/Natours)
+[![KarimStudio](https://github-readme-stats.vercel.app/api/pin/?username=karim-kodes&repo=KarimStudio&theme=tokyonight&border_radius=10&border_color=026DFC&bg_color=0D1117&title_color=026DFC&icon_color=9DC1F1&text_color=C9D1D9)](https://github.com/karim-kodes/movies_success_predictor)
 
 </div>
 
