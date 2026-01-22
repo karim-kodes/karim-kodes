@@ -16,7 +16,7 @@
 const karim = {
     location: "Thika, Kenya 🇰🇪",
     studio: "KarimStudio",
-    role: "Full-Stack Developer & Designer",
+    role: "Software Engineer & Designer",
     code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
     technologies: {
         frontend: ["React", "Next.js", "Tailwind CSS", "Vite"],
