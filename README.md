@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Abdikarim Mohamed
 
-### Full-Stack Developer | UI/UX Enthusiast | Building Digital Experiences
+### Software Engineer | UI/UX Enthusiast | Building Digital Experiences
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=026DFC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Applications;Crafting+Clean+%26+Scalable+Code;Passionate+About+Design+%26+Development" alt="Typing SVG" />
 
